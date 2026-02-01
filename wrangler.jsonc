@@ -1,0 +1,20 @@
+{
+  "name": "asa",
+  "compatibility_date": "2026-01-31",
+  "main": "src/worker.js",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "r2_buckets": [
+    {
+      "binding": "R2_BUCKET",
+      "bucket_name": "asa"
+    }
+  ],
+  "vars": {
+    "R2_PUBLIC_URL": "https://src.asasuo.club",
+    "CF_ACCESS_TEAM_NAME": "asasuo.cloudflareaccess.com",
+    "CF_ACCESS_AUD": "3b4c0f9ae4c91ce23e6a85ceae461e812400e459cd2c9a0671a9df26440941c1"
+  }
+}
