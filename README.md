@@ -4,8 +4,8 @@ A website for the Asian Student Association (ASA) at UBC Okanagan. Serves as the
 
 ## What it does
 
-- **Landing page** Changes to promote on-going events
-- **Gallery** organized by event — browse photos from past gatherings
+- **Landing page** to promote on-going events and club
+- **Gallery** organized by event — browse photos from past events
 - **Admin panel** (access-controlled) for creating events, uploading/managing photos, and controlling gallery visibility
 
 ## Hosted at
